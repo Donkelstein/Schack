@@ -1,0 +1,24 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+
+body {
+	background-color: #fff;
+	font-family: 'Cinzel', serif;
+	font-size: 45px;
+}
+
+
+.bild {
+	margin-top: 25px;
+	margin-left: 100px;
+	float: left;
+}
+
+
+.felix{
+text-align: center;
+}
