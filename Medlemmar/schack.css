@@ -8,13 +8,19 @@
 body {
 	background-color: #fff;
 	font-family: 'Cinzel', serif;
-	font-size: 45px;
+	font-size: 35px;
 }
 
 
 .bild {
 	margin-top: 25px;
 	margin-left: 100px;
+	float: left;
+}
+
+.bild1 {
+	margin-top: 25px;
+	margin-left: 215px;
 	float: left;
 }
 
